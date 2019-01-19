@@ -1,0 +1,10 @@
+#sear  {
+    height: 400px; 
+    width: 1000px; 
+    margin-left: 200px;
+    
+}
+#sear div a img:hover{
+            transition: 1s;
+    transform: scale(1.5);
+}
